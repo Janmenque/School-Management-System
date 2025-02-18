@@ -1,0 +1,1 @@
+<?php echo @$body; ?><?php /**PATH C:\xampp\htdocs\immersion\resources\views/backEnd/email/emailBody.blade.php ENDPATH**/ ?>
